@@ -1,4 +1,4 @@
-# plant-disease-prediction
+# Plant-disease-prediction
 
 ## Kaggle Dataset
 Kaggle Dataset Link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
