@@ -1,12 +1,28 @@
-# Plant-disease-prediction
+# Plant Disease Prediction
+
+This is a smart streamlit based app which can be used for the early detetction of the plant diseases just by uploading a picture of the plant. The prediction is based on the hundreds of photos used in the dataset. The application is easy to use and helpful for disease prediction.
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## Tech Stack
+
+**TensorFlow** : Machine learning
+**NumPy** : Numerical operations
+**Streamlit** : Web app interface
+**Docker** : Containerization
+**Python** : Programming language
+
+
 
 ## Kaggle Dataset
 Kaggle Dataset Link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
 ## Download and Copy below training model in the trained_model folder present in app
 Trained Model Link: [[https://drive.google.com/file/d/1i466c4XOs048Q54EPCqgzoG8zWcARnrj/view?usp=sharing](https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=sharing)](https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link)https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=drive_link
-
-
 
 ## Install libraries
 npm install numpy tensorflow streamlit
