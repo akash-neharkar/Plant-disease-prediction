@@ -1,6 +1,6 @@
 # plant-disease-prediction
 
-## Make sure to Download below kaggle dataset before running
+## Kaggle Dataset
 Kaggle Dataset Link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
 ## Download and Copy below training model in the trained_model folder present in app
