@@ -34,5 +34,5 @@ npm install numpy tensorflow streamlit
 
 ## Steps to run using Docker container
 1) Go to Command prompt
-2) Run this command: docker run -p 80:80 plant-disease-prediction-image:v1.0
-3) To see all the images, ru this command: docker images
+2) Run command: docker run -p 80:80 plant-disease-prediction-image:v1.0
+3) To see all the images, run command: docker images
