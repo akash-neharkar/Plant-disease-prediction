@@ -3,9 +3,10 @@
 This is a smart streamlit based app which can be used for the early detetction of the plant diseases just by uploading a picture of the plant. The prediction is based on the hundreds of photos used in the dataset. The application is easy to use and helpful for disease prediction.
 
 ## Screenshots
-![Screenshot 2024-08-15 025109](https://github.com/user-attachments/assets/1f97b3e1-8a75-46a6-ad5c-2fadf80b819d)
+![Screenshot 2024-08-15 024936](https://github.com/user-attachments/assets/984541b0-1985-4a6d-bf63-e77d98dcbd90)
 
 ## Tech Stack
+
 
 **TensorFlow** : Machine learning
 **NumPy** : Numerical operations
