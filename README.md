@@ -4,9 +4,9 @@ This is a smart streamlit based app which can be used for the early detetction o
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://drive.google.com/file/d/1hiygoBVyUXDVZRpZA4C9sr-MbE0YpCmq/view?usp=drive_link))
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://drive.google.com/file/d/1hiygoBVyUXDVZRpZA4C9sr-MbE0YpCmq/view?usp=drive_link))
 
 ## Tech Stack
 
